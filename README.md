@@ -13,6 +13,11 @@
 [![Build Status](https://github.com/SonarSource/sonar-scanner-maven/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SonarSource/sonar-scanner-maven/actions/workflows/build.yml)
 [![Quality Gate Status](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=org.sonarsource.scanner.maven%3Asonar-scanner-maven&metric=alert_status)](https://next.sonarqube.com/sonarqube/dashboard?id=org.sonarsource.scanner.maven%3Asonar-scanner-maven)
 
+## SonarApex
+
+[![Build](https://github.com/SonarSource/sonar-apex/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SonarSource/sonar-apex/actions/workflows/build.yml)
+[![Quality Gate Status](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=SonarSource_sonar-apex&metric=alert_status&token=sqb_fd7a99c77966e21a68d5b361336c665a3df5ef8e)](https://next.sonarqube.com/sonarqube/dashboard?id=SonarSource_sonar-apex)
+
 ## SonarRuby
 
 [![Build](https://github.com/SonarSource/sonar-ruby/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SonarSource/sonar-ruby/actions/workflows/build.yml)
