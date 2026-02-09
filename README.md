@@ -2,15 +2,15 @@
 
 [![Build](https://github.com/SonarSource/sonar-java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SonarSource/sonar-java/actions/workflows/build.yml)
 * NEXT: [![Quality Gate Status](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=org.sonarsource.java%3Ajava&metric=alert_status)](https://next.sonarqube.com/sonarqube/dashboard?id=org.sonarsource.java%3Ajava)
-* SQC IO: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SonarSource_sonar-java&metric=alert_status&token=eb4945d8ec7bd4dcd9477a2583eb55786a1233fc)](https://sonarcloud.io/summary/new_code?id=SonarSource_sonar-java)
-* SQC US:[![Quality Gate Status](https://sonarqube.us/api/project_badges/measure?project=SonarSource_sonar-java&metric=alert_status&token=37523c86c59e0c4da1ae3b19f612f146f5b73306)](https://sonarqube.us/summary/new_code?id=SonarSource_sonar-java)
+* SQC IO: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.sonarsource.java%3Ajava&metric=alert_status&token=eb4945d8ec7bd4dcd9477a2583eb55786a1233fc)](https://sonarcloud.io/summary/new_code?id=SonarSource_sonar-java)
+* SQC US:[![Quality Gate Status](https://sonarqube.us/api/project_badges/measure?project=org.sonarsource.java%3Ajava&metric=alert_status&token=37523c86c59e0c4da1ae3b19f612f146f5b73306)](https://sonarqube.us/summary/new_code?id=SonarSource_sonar-java)
 
 ## Scanner for Gradle
 
 [![Build Status](https://github.com/SonarSource/sonar-scanner-gradle/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SonarSource/sonar-scanner-gradle/actions/workflows/build.yml)
 * NEXT: [![Quality Gate Status](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=org.sonarsource.scanner.gradle%3Asonarqube-gradle-plugin&metric=alert_status)](https://next.sonarqube.com/sonarqube/dashboard?id=org.sonarsource.scanner.gradle%3Asonarqube-gradle-plugin)
-* SQC IO: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SonarSource_sonar-scanner-gradle&metric=alert_status&token=d5c38e7d8b4d4150ce66f79baf77438a0b846a81)](https://sonarcloud.io/summary/new_code?id=SonarSource_sonar-scanner-gradle)
-* SQC US: [![Quality Gate Status](https://sonarqube.us/api/project_badges/measure?project=SonarSource_sonar-scanner-gradle&metric=alert_status&token=8ca81560e64aa64756a290c62515c5cfd702f9df)](https://sonarqube.us/summary/new_code?id=SonarSource_sonar-scanner-gradle)
+* SQC IO: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.sonarsource.scanner.gradle%3Asonarqube-gradle-plugin&metric=alert_status&token=d5c38e7d8b4d4150ce66f79baf77438a0b846a81)](https://sonarcloud.io/summary/new_code?id=SonarSource_sonar-scanner-gradle)
+* SQC US: [![Quality Gate Status](https://sonarqube.us/api/project_badges/measure?project=org.sonarsource.scanner.gradle%3Asonarqube-gradle-plugin&metric=alert_status&token=8ca81560e64aa64756a290c62515c5cfd702f9df)](https://sonarqube.us/summary/new_code?id=SonarSource_sonar-scanner-gradle)
 
 ## Scanner for Maven
 
@@ -52,7 +52,7 @@
 [![Build Status](https://github.com/SonarSource/sonar-xml/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SonarSource/sonar-xml/actions/workflows/build.yml)
 * NEXT: [![Quality Gate Status](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=org.sonarsource.xml%3Axml&metric=alert_status&token=sqb_8702c0abb8aa104e67bfd6158f1689bd09094fd1)](https://next.sonarqube.com/sonarqube/dashboard?id=org.sonarsource.xml%3Axml)
 * SQC IO: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SonarSource_sonar-xml&metric=alert_status&token=d2a73bb0d31b138c039fbb825223bce20ae24029)](https://sonarcloud.io/summary/new_code?id=SonarSource_sonar-xml)
-* SQC US: [![Quality Gate Status](https://sonarqube.us/api/project_badges/measure?project=SonarSource_sonar-xml&metric=alert_status&token=2187826f445ac44fae42f4f5a451af0a19d0cdb6)](https://sonarqube.us/summary/new_code?id=SonarSource_sonar-xml)
+* SQC US: [![Quality Gate Status](https://sonarqube.us/api/project_badges/measure?project=org.sonarsource.xml:xml&metric=alert_status&token=2187826f445ac44fae42f4f5a451af0a19d0cdb6)](https://sonarqube.us/summary/new_code?id=SonarSource_sonar-xml)
 
 ## SLang
 
